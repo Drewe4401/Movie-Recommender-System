@@ -16,8 +16,8 @@ This is a movie recommender system that uses various algorithms to provide perso
 
 ### Installation
 
-pip install turicreate
-pip install imdbpy
+* pip install turicreate
+* pip install imdbpy
 
 ### Usage
 
